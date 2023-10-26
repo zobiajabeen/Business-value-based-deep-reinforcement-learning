@@ -1,0 +1,105 @@
+Test Cases Name,Test Cases,Requirements,Release3/ Fault Count,Fault Severity,Dependency/cross cutting,Verdict
+test case addition failed in tester's log test suite,T1,R10,0,0,3,1
+add bugs in tester's log test suite,T2,R10,0,0,3,1
+add personal projects in tester's portfolio,T3,R9,0,0,3,1
+add requirement button on client project initiation page,T4,R6,0,0,3,1
+add skills in tester's portfolio,T5,R9,0,0,3,1
+add testing experience in tester's portfolio,T6,R9,0,0,3,1
+admin can accept client project,T7,R7,0,0,3,1
+admin can accept tester request,T8,R7,0,0,3,1
+admin can delete clients,T9,R12,0,0,3,1
+admin can delete testers,T10,R12,0,0,3,1
+admin can download submitted report,T11,R11,0,0,3,1
+admin can reject client project,T12,R7,0,0,3,1
+admin can reject tester request,T13,R7,0,0,3,1
+admin dashboard progress button,T14,R14,0,0,3,1
+admin download project artifacts from project details,T15,R5,1,1,3,0
+admin failed profile updation,T16,R13,0,0,3,1
+admin sign in failed upon invalid credentials,T17,R2,0,0,2,1
+admin signout,T18,R3,0,0,3,1
+admin successful profile updation,T19,R13,0,0,3,1
+admin successful sign in upon valid credentials,T20,R2,0,0,2,1
+back button of client sign in page,T21,R14,0,0,2,1
+back button of tester sign in page,T22,R14,0,0,2,1
+back to main page button of admin sign in,T23,R14,0,0,2,1
+back to main page button on client registration page,T24,R14,0,0,2,1
+back to main page button on tester registration page,T25,R14,0,0,2,1
+buy button functionality,T26,R14,0,0,1,1
+checking client and admin contact without selecting appropriate file,T27,R6,0,0,3,1
+clickable projects on admin dashboard to check their description,T28,R5,0,0,3,1
+clickable projects on client dashboard to check their description,T29,R5,0,0,3,1
+clickable projects on tester's dashboard to check their description,T30,R5,0,0,3,1
+client can delete action from test suite,T31,R11,0,0,3,1
+client can delete bug actions,T32,R11,0,0,3,1
+client can download proof for test case status,T33,R11,1,2,3,0
+client dashboard progress button,T34,R14,0,0,3,1
+client download project artifacts from project details,T35,R5,0,0,3,1
+client failed login upon invalid credentials,T36,R2,0,0,2,1
+client failed project initiation,T37,R8,0,0,3,1
+client failed registration upon invalid credentials,T38,R1,0,0,2,1
+client profile updation failed due to invalid credentials,T39,R13,0,0,3,1
+client profile updation with valid credentials,T40,R13,0,0,3,1
+client successful contact to admin by filling all necessary fields,T41,R6,0,0,3,1
+client successful login upon valid credentials,T42,R2,0,0,2,1
+client successful project initiation,T43,R8,0,0,3,1
+client successful registration upon valid credentials,T44,R1,0,0,2,1
+client successful signout,T45,R3,0,0,3,1
+contact us button,T46,R14,0,0,1,1
+create an account button of client login page,T47,R14,0,0,2,1
+create an account button of tester login page,T48,R14,0,0,2,1
+download proof from tester's test case traceability,T49,R11,0,0,3,1
+file uploading on client project initiation page,T50,R6,0,0,3,1
+get started button,T51,R14,0,0,1,1
+login button on client registration page,T52,R14,0,0,2,1
+login button on tester registration page,T53,R14,0,0,2,1
+navigate to about button,T54,R16,0,0,1,1
+navigate to admin dashboard,T55,R16,0,0,3,1
+navigate to admin manage artifacts,T56,R16,0,0,3,1
+navigate to admin profile,T57,R16,0,0,3,1
+navigate to admin progress report,T58,R16,0,0,3,1
+navigate to admin project request,T59,R16,0,0,3,1
+navigate to admin sign in,T60,R16,0,0,1,1
+navigate to admin's manage users page,T61,R16,0,0,3,1
+navigate to client contact admin page,T62,R16,0,0,3,1
+navigate to client dashboard after successful login,T63,R16,0,0,3,1
+navigate to client profile page,T64,R16,0,0,3,1
+navigate to client progress report page,T65,R16,0,0,3,1
+navigate to client project initiation page,T66,R16,0,0,3,1
+navigate to client registration,T67,R16,0,0,1,1
+navigate to client sign in,T68,R16,0,0,1,1
+navigate to sevices page,T69,R16,0,0,1,1
+navigate to tester registration,T70,R16,0,0,1,1
+navigate to tester sign in,T71,R16,0,0,1,1
+navigate to tester's available projects,T72,R16,0,0,3,1
+navigate to tester's log test suite,T73,R16,0,0,3,1
+navigate to tester's portfolio,T74,R16,0,0,3,1
+navigate to tester's profile,T75,R16,0,0,3,1
+navigate to tester's test case tracebility,T76,R16,0,0,3,1
+navigate to testers dashboard,T77,R16,0,0,3,1
+selecting project from drop down menu from tester's log test suite,T78,R10,0,0,3,1
+selecting project from drop down menu in tester's test case traceability,T79,R11,0,0,3,1
+selecting project from drop down menu of client side progress report,T80,R5,0,0,3,1
+selecting project requirement from drop down menu in tester's log test suite,T81,R10,0,0,3,1
+selecting project requirement from drop down menu in tester's test case traceability,T82,R11,0,0,3,1
+selecting project requirement from drop down menu of client side progress report,T83,R5,0,0,3,1
+successful test case addition in tester's log test suite by fulfilling all requirements,T84,R10,0,0,3,1
+tester can delete action from test case traceability,T85,R11,0,0,3,1
+tester can delete bugs,T86,R11,0,0,3,1
+tester can download submitted report,T87,R11,0,0,3,1
+tester can request for the available projects,T88,R4,0,0,3,1
+tester can submit test report,T89,R11,0,0,3,1
+tester can update test case,T90,R11,0,0,3,1
+tester download project artifacts from project details,T91,R5,0,0,3,1
+tester failed login upon invalid credentials,T92,R2,0,0,2,1
+tester registration failed upon invalid credentials,T93,R1,0,0,2,1
+tester registration success upon valid credentials,T94,R1,0,0,2,1
+tester signout,T95,R3,0,0,3,1
+tester successful login upon valid credentials,T96,R2,0,0,2,1
+tester's dashboard progress button,T97,R14,1,1,3,0
+tester's profile updation,T98,R13,0,0,3,1
+update uploaded resume,T99,R13,0,0,3,1
+upload resume button in tester's portfolio,T100,R9,0,0,3,1
+write delivery and description in tester's portfolio,T101,R9,0,0,3,1
+make payment (admin to tester)dynamic payment process,T102,R15,0,0,3,1
+admin to tester secure payment,T103,R17,0,0,3,1
+client to admin payment through proper channel,T104,R17,0,0,3,1

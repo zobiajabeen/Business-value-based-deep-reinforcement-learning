@@ -1,0 +1,100 @@
+Test Cases Name,Test Cases ,Requirements,Core Business Functions,Allied Atomic Functions,Technical Functions,Enabling Operations,Encapsulated Functions,Release2/Fault Count,Verdict
+test case addition failed in tester's log test suite,T1,R10,10,0,0,0,0,0,1
+add bugs in tester's log test suite,T2,R10,10,0,0,0,0,0,1
+add personal projects in tester's portfolio,T3,R9,10,0,0,0,0,0,1
+add requirement button on client project initiation page,T4,R6,10,0,0,0,0,0,1
+add skills in tester's portfolio,T5,R9,10,0,0,0,0,0,1
+add testing experience in tester's portfolio,T6,R9,10,0,0,0,0,0,1
+admin can accept client project,T7,R7,10,0,0,0,0,0,1
+admin can accept tester request,T8,R7,10,0,0,0,0,0,1
+admin can delete clients,T9,R12,0,0,0,0,2,0,1
+admin can delete testers,T10,R12,0,0,0,0,2,0,1
+admin can download submitted report,T11,R11,0,0,0,4,0,0,1
+admin can reject client project,T12,R7,10,0,0,0,0,0,1
+admin can reject tester request,T13,R7,10,0,0,0,0,0,1
+admin dashboard progress button,T14,R14,0,0,6,0,0,0,1
+admin download project artifacts from project details,T15,R5,0,0,6,0,0,1,0
+admin failed profile updation,T16,R13,0,0,0,0,1,0,1
+admin sign in failed upon invalid credentials,T17,R2,0,7,0,0,0,0,1
+admin signout,T18,R3,0,8,0,0,0,0,1
+admin successful profile updation,T19,R13,0,0,0,0,2,0,1
+back button of client sign in page,T20,R14,0,0,5,0,0,0,1
+back button of tester sign in page,T21,R14,0,0,5,0,0,0,1
+back to main page button of admin sign in,T22,R14,0,0,5,0,0,0,1
+back to main page button on client registration page,T23,R14,0,0,5,0,0,0,1
+back to main page button on tester registration page,T24,R14,0,0,5,0,0,0,1
+buy button functionality,T25,R14,0,0,5,0,0,0,1
+checking client and admin contact without selecting appropriate file,T26,R6,10,0,0,0,0,0,1
+clickable projects on admin dashboard to check their description,T27,R5,0,0,6,0,0,0,1
+clickable projects on client dashboard to check their description,T28,R5,0,0,6,0,0,0,1
+clickable projects on tester's dashboard to check their description,T29,R5,0,0,6,0,0,0,1
+client can delete action from test suite,T30,R11,0,0,0,4,0,1,0
+client can delete bug actions,T31,R11,0,0,0,4,0,0,1
+client can download proof for test case status,T32,R11,0,0,0,4,0,1,0
+client dashboard progress button,T33,R14,0,0,6,0,0,0,1
+client download project artifacts from project details,T34,R5,0,0,5,0,0,0,1
+client failed login upon invalid credentials,T35,R2,0,7,0,0,0,0,1
+client failed project initiation,T36,R8,0,0,6,0,0,0,1
+client failed registration upon invalid credentials,T37,R1,9,0,0,0,0,0,1
+client profile updation failed due to invalid credentials,T38,R13,0,0,0,0,2,0,1
+client profile updation with valid credentials,T39,R13,0,0,0,0,2,0,1
+client successful contact to admin by filling all necessary fields,T40,R6,10,0,0,0,0,1,0
+client successful login upon valid credentials,T41,R2,0,7,0,0,0,0,1
+client successful project initiation,T42,R8,0,0,6,0,0,0,1
+client successful registration upon valid credentials,T43,R1,9,0,0,0,0,0,1
+client successful signout,T44,R3,0,8,0,0,0,0,1
+contact us button,T45,R14,0,0,5,0,0,0,1
+create an account button of client login page,T46,R14,0,0,5,0,0,0,1
+create an account button of tester login page,T47,R14,0,0,5,0,0,0,1
+download proof from tester's test case traceability,T48,R11,0,0,0,4,0,0,1
+file uploading on client project initiation page,T49,R6,10,0,0,0,0,0,1
+get started button,T50,R14,0,0,5,0,0,0,1
+login button on client registration page,T51,R14,0,0,5,0,0,0,1
+login button on tester registration page,T52,R14,0,0,5,0,0,0,1
+navigate to about button,T53,R16,0,7,0,0,0,0,1
+navigate to admin dashboard,T54,R16,0,8,0,0,0,0,1
+navigate to admin manage artifacts,T55,R16,0,8,0,0,0,0,1
+navigate to admin profile,T56,R16,0,8,0,0,0,0,1
+navigate to admin progress report,T57,R16,0,8,0,0,0,0,1
+navigate to admin project request,T58,R16,0,8,0,0,0,0,1
+navigate to admin sign in,T59,R16,0,7,0,0,0,1,0
+navigate to admin's manage users page,T60,R16,0,8,0,0,0,0,1
+navigate to client contact admin page,T61,R16,0,8,0,0,0,0,1
+navigate to client dashboard after successful login,T62,R16,0,8,0,0,0,0,1
+navigate to client profile page,T63,R16,0,8,0,0,0,0,1
+navigate to client progress report page,T64,R16,0,8,0,0,0,0,1
+navigate to client project initiation page,T65,R16,0,8,0,0,0,0,1
+navigate to client registration,T66,R16,0,7,0,0,0,0,1
+navigate to client sign in,T67,R16,0,7,0,0,0,0,1
+navigate to sevices page,T68,R16,0,7,0,0,0,0,1
+navigate to tester registration,T69,R16,0,7,0,0,0,0,1
+navigate to tester sign in,T70,R16,0,7,0,0,0,0,1
+navigate to tester's available projects,T71,R16,0,8,0,0,0,0,1
+navigate to tester's log test suite,T72,R16,0,8,0,0,0,0,1
+navigate to tester's portfolio,T73,R16,0,8,0,0,0,0,1
+navigate to tester's profile,T74,R16,0,8,0,0,0,0,1
+navigate to tester's test case tracebility,T75,R16,0,8,0,0,0,0,1
+navigate to testers dashboard,T76,R16,0,8,0,0,0,0,1
+selecting project from drop down menu from tester's log test suite,T77,R10,10,0,0,0,0,0,1
+selecting project from drop down menu in tester's test case traceability,T78,R11,0,0,0,4,0,0,1
+selecting project from drop down menu of client side progress report,T79,R5,0,0,6,0,0,0,1
+selecting project requirement from drop down menu in tester's log test suite,T80,R10,10,0,0,0,0,0,1
+selecting project requirement from drop down menu in tester's test case traceability,T81,R11,0,0,0,4,0,0,1
+selecting project requirement from drop down menu of client side progress report,T82,R5,0,0,6,0,0,0,1
+successful test case addition in tester's log test suite by fulfilling all requirements,T83,R10,10,0,0,0,0,0,1
+tester can delete action from test case traceability,T84,R11,0,0,0,4,0,0,1
+tester can delete bugs,T85,R11,0,0,0,4,0,0,1
+tester can download submitted report,T86,R11,0,0,0,4,0,0,1
+tester can request for the available projects,T87,R4,10,0,0,0,0,0,1
+tester can submit test report,T88,R11,0,0,0,4,0,0,1
+tester download project artifacts from project details,T89,R5,0,0,6,0,0,0,1
+tester failed login upon invalid credentials,T90,R2,0,7,0,0,0,0,1
+tester registration failed upon invalid credentials,T91,R1,9,0,0,0,0,0,1
+tester registration success upon valid credentials,T92,R1,9,0,0,0,0,0,1
+tester signout,T93,R3,0,8,0,0,0,0,1
+tester successful login upon valid credentials,T94,R2,0,7,0,0,0,0,1
+tester's dashboard progress button,T95,R14,0,0,6,0,0,1,0
+tester's profile updation,T96,R13,0,0,0,0,2,0,1
+update uploaded resume,T97,R13,0,0,0,0,2,0,1
+upload resume button in tester's portfolio,T98,R9,10,0,0,0,0,1,0
+write delivery and description in tester's portfolio,T99,R9,10,0,0,0,0,0,1
